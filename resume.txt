@@ -1,0 +1,209 @@
+Amit Kumar
+(908) 992-1461 | helloworld1461@gmail.com |linkedin.com/in/amitpandey1900
+
+Professional Summary
+Highly motivated and results-oriented Software Development Manager and Tech Lead with 18+ years of experience leading technical teams in the design, development, and maintenance of Java/J2EE applications for trading and Banking & Financial systems. Proven ability to:
+
+    • Lead diverse teams across geographies: Managed development teams, prioritized tasks, tracked progress, presented ideas to product management, and created cost/resource estimates.
+    • Execute the entire SDLC: Spearheaded all phases of software development, from requirements analysis and design to development and deployment in low-latency environments.
+    • Cultivate high-performing teams: Built and recruited strong development teams, conducted regular meetings, addressed customer concerns, and implemented appraisal processes.
+    • Deliver excellence: Championed agile methodologies (Scrum, Kanban), drove innovative solutions, and exceeded expectations in dynamic project environments.
+    • Bridge communication gaps: Effectively communicated with team members, management, and clients.
+    • Master technical expertise: Proven skills in Java/J2EE, OOAD, XML, RDBMS, UI development (Tableau, JSP, JavaScript, Ajax), MVC frameworks (Struts, Spring), and more.
+    • Embrace innovation: Led LSEG-MICROSOFT partnership for My Trading Projects Azure migration, implemented Chatbots (AIML), and developed analytic charts (D3.js).
+    • Navigate cloud complexities: Successfully migrated applications from on-prem to Azure and AWS, leveraging Jenkins and Kubernetes for automation.
+
+Technical Skills:
+    • Expertise in full stack software development, performance tuning, and refactoring. 
+    • Proficiency in cross-asset trading systems development and analysis. Experience in artificial intelligence component design and development.
+
+Languages
+
+Java, PL/SQL
+Java and web technologies
+J2EE, Angular1, Tableau, D3.js, Knockout.js,Jquery, EJB, JSP, JSF, Servlets, JDBC, JNDI, RMI, JavaBeans, JAXB, SAX, DOM Parser, Hibernate, Struts, Spring, SpringBoot, LOG4J, AJAX, Webservice, JMS
+Frame works and Products			
+SpringBoot , Microservices, Struts 1.2, Struts 2, AngularJS, Mule, Hibernate, Spring, Spring MVC, Ajax, Tiles, maven, ANT, PubSub.Loan IQ, HP fortify , AAA, Datadog.
+Build and Deployment
+
+Maven, Ant, compass, puppet, CI/CD, Azure,Aws,Docker, Kubernetes,Jenkins,datadog
+Application Servers
+
+Tomcat, WebSphere 6.1, WebLogic 10x and IIS
+Tools
+
+Selenium, Protractor, Cucumber, Visio
+Rule Management Tools and IDE
+
+ILog JRules,Drools, IntelliJ, WebStorm, Eclipse Edit Plus.
+Databases
+
+Oracle 8i/9i/10g/11g, MySQL, DB2, Sybase, TOAD.
+Operating Systems
+
+UNIX, Windows.
+Version 	Control 	Systems
+
+Clear Case (CC) VSS (Visual Source Safe), CVS, Change Man, Subversion., GIT, Gutbucket, DX1 GitLab, CI/CD pipeline.
+Frameworks and workflow
+
+Pivotal Cloud Foundry, No SQL Database, Apache Kafka, Redis. AWS, Azure.
+
+Leadership Skills:
+    • Effective communication, decision making and problem-solving abilities. 
+    • Excellent in analysing data for informed decision. 
+    • Extensive experience in Hiring, Mentoring, Guiding Team, Resource allocation, Cost and effort Analysis. 
+    • Planning Budgeting & Forecasting • Resource Allocation • Agile Methodologies 
+    • Hire, Mentor, Guide, building and managing high-performing teams.
+    • Strategic Planning and experience leading partnership with different organization as an ambassador for my Projects.
+
+Experience
+Tech Lead and Dev Manager							               Oct 2018-current
+London Stock Exchange, New, York, N Y
+
+Worked as tech lead and development manager for Trading project which is a Financial and Risk's trading and analytics application. It allows Banks to access a single source for all their trading insights.
+
+Roles and Responsibilities:
+
+Leadership and Management:
+    • Lead and manage a cross-functional team of developers and lead developers across multiple geographical locations, fostering collaboration and ensuring efficient execution of projects.
+    • Spearhead the LSEG-MICROSOFT partnership for My Trading Projects Azure migration, driving seamless transition and leveraging partner expertise.
+    • Build and mentor strong teams by recruiting, hiring, coaching, and managing software engineers, promoting continuous learning and improvement.
+    • Regularly meet with stakeholders across geographies to maintain open communication, manage expectations, and ensure project alignment.
+
+Technical Expertise and Delivery:
+    • Design, develop, and code an asynchronous architecture with real-time FX data, emphasizing performance and scalability.
+    • Continuously reduce latency time based on business requirements and customer needs, delivering optimal responsiveness.
+    • Take full ownership of product delivery, ensuring timely completion and adherence to all specifications and quality standards.
+    • Collaborate with product owners and stakeholders to gather requirements, translate them into actionable plans, and guarantee on-time delivery.
+
+Architecture and Development:
+    • Design and implement a robust base framework and reusable utilities for both UI and backend, promoting efficient coding practices and maintainability.
+    • Perform ongoing maintenance and upgrades of legacy applications, considering budget constraints and proposing modernization strategies when feasible.
+    • Design and code scalable and reliable cross-asset trading multi-tier web services systems for the financial services industry, delivering valuable reports and analytics.
+    • Develop APIs to facilitate seamless interaction with various systems, fostering data integration and streamlining workflows.
+
+Performance and Optimization:
+    • Conduct rigorous technical analysis and performance tuning of integrated modules, ensuring optimal system efficiency and resource utilization.
+    • Continuously analyse and improve application performance through refactoring techniques and resolution of complex issues like multithreading and memory leaks.
+    • Implement various performance optimization techniques to ensure responsiveness and meet customer expectations.
+
+Innovation and Growth:
+    • Present new project ideas to product managers, championing innovation and driving business value.
+    • Create cost and resource estimates for projects, fostering informed decision-making and budget adherence.
+    • Design and develop an Artificial Intelligence component for automated customer interaction, enhancing user experience and service efficiency.
+    • Lead application migration initiatives, preparing them for cloud deployment on platforms like AWS or Azure.
+
+Environment: Core Java, springboot, Tableau, Redis Cache, No Sql ,D3.js, knockout.js, HTML5, AIML, Oracle, MySQL, Sql Server, Tomcat Server, REST Services, SOAP, Jenkins, Kubernetes, AWS, Git Bucket, jQuery, WinSCP, Putty, CSS, DX1.
+
+Tech Lead			                      		                                        May 2018 - Oct 2018
+Thomson Reuters, New York, NY
+
+Tech lead for Trading Insights, which is a Financial and Risk's trading reporting and analytics application. It allows Banks to access a single source for all their trading insights .ET Insights (Electronic trading Insights) currently used by several banks across the globe to analyse all customers trading data, for macro-overviews, or deep dive to produce granular reports on targeted areas. This is integrated as an app with EIKON, which provides access to real time market data, news, fundamental data, analytics, trading and messaging tools
+
+Roles and Responsibilities:
+    • Design Develop and code the Async architecture with real time FX data
+    • Reduce the latency time as per the need the requirement and customer
+    • Design to develop cross asset trading System for the financial service industry, dedicated to delivering quality reports and   analytics for different trading systems
+    • Coding and maintaining the project infrastructure, build and deployment strategies which include DevOps and cloud deployments
+    • Involve in coding and Unit Testing the programs that can be In Java, U I frameworks- such as
+    • HTML5/jQuery and other JavaScript libraries
+    • Involve in rigorous technical analysis, performance tuning of the integrated modules
+    • Involve in analysing and improving performance of the application by implementing various performance and refactoring techniques, resolve complex multithreading and memory leak issues
+    • Maintain and support the tools for monitoring and processing every FX trade on all major exchange platform globally, Design and develop Artificial Intelligence component which interacts with customer to provide them with the required information instantly
+Environment: Core Java, springboot, D3.js, knockout.js, HTML5, AIML, Oracle, MySQL, SQL Server, Tomcat Server, REST Services, SOAP, Jenkins, Kubernetes, AWS, Git Bucket, jQuery, WinSCP, Putty, CSS.
+
+Java Application Developer Tech Lead					                       Aug 2016 - May 2018 Cognizant Technology Solutions, 
+Client: JPMorgan Chase, Jersey City, NJ
+
+Worked on project Prime brokerage client facing portal. Client uses these Portal to view their Portfolio and details. There is communication which deals with multilayer .NET, mainframe and composite databases. As a consultant and Tech lead for 3 projects under PBCF Portal, I am fully responsible for all the development, build and deployment activities in the projects. The project is built on complicated business functionalities where data comes from many platforms and in many different formats through different source systems. The Project consists of three layers Java, .NET and composite Layer which comprises of oracle and Sybase which finally Interacts with mainframe procs and DB2.
+
+Roles and Responsibilities:
+    • Develop, build and deploy the application and provide support for the system
+    • Setup the DevOps autopilot jobs for build and deploy
+    • Create and manage SOAP for Interaction of, Java layer to .NET webservice
+    • Support the legacy application built in .NET and mainframe
+    • Design and develop the re-Engineering of old BAU project from struts to AngularJS
+    • Develop generic Publisher/Subscriber model and create Restful webservices and Security context for Authentication and Authorization, developed the base framework to manipulate and create the desired Jason Object from the response xml received from the rest services.
+    • Code refactoring to get an advantage from technologies upgrade including usage of Generics, Enums etc and fine tuning the application (w.r.t Performance, scalability etc)
+    • Fixed various Security defects in the existing system. Defects fixed are Cross site Scripting (XSS), Cross Site Request Forgery (CSRF), HTTPS Response Splitting, Clickjacking (URL Redressing attack) and Brute Force Attack
+    • Used OWASP's ESAPI and ESAPI4JS to provide protection against XSS and CSRF at both server side and presentation layer. Used Frame Busting and Server-side X- Frame-Options configuration to provide protection against Click Jacking
+    • Created all the generic utilities for Automation Scripts, to make the development of automation easier and faster in Protractor and cucumber
+    • Created a Utility using jQuery, which generates custom automation report for the Test cases 
+    • Fix all the ADA (American Disability Act) compliant defects
+Environment: Core Java, AngularJS, Struts, Spring, Spring core MVC, C#, mainframe, Web Services, Oracle, Tomcat Server, IIS Servers, REST Services, SOAP, Jenkins, DevOps, Git Bucket, jQuery, WinSCP, Putty, SQL Developer, Protractor, Cucumber, Selenium, Jasmine Reporter, CSS.
+
+
+
+Senior Java Developer								          Jan 2015 - Aug 2016
+Cognizant Technology Solutions, 
+Client: JPMorgan Chase, Pune, India
+
+Worked on project Tech Refresh and LoanIQ. Tech refresh is mainly a migration project of the Reporting system which involves many subprojects with primary focus on descoping some of the modules and refactoring the project. 
+
+Roles and Responsibilities:
+    • Develop, build and deploy the application and provide support for the system
+    • Fixing various Security defects in the existing system
+    • Migrate the application server from WebLogic to tomcat and migrate the build from ANT to Maven
+    • Fix all the cross-site scripting defects.
+    • Created and innovated a JarrDiff utility which effectively compares multiple jar or Zip file and generate the difference in HTML and Excel format mentioning the classes and the method which have differences
+    • Created a .bat file which takes the parameter as the jar files location and invoke this utility and save the report at the desired location 
+    • Initially a broad performance testing with the support of MYSIS is done to ensure whether the current loan IQ system will be good to handle the substantial number of business banking deals. A detailed gap analysis is done to mark the interfaces need to be amended or created to support the system
+    • Refactor and remodel the project architecture to make it more robust and loosely coupled, customize and use ESAPI validators
+Environment: LoanIQ, Developer; HP Fortify, JMS.
+
+
+Java Application Developer						     	           Jan 2012 - Jan 2015
+Cognizant Technology Solutions
+Client: JPMorgan Chase, Houston, TX
+
+Approvals Recording - There is a need to set up and manage limits for clients trading in derivatives to support the US legislation for SEFs introduced by the Dodd-Frank Act in US and similar legislation for regulation of exchanges in other regions. A new SEF Limits Management component is developed for this purpose
+
+Roles and Responsibilities:
+    • Involve in designing, requirement gathering, Coding the modules
+    • Implementing various performance techniques, resolved multithreading and memory leak issues
+    • Implemented a generic utility to map the Incoming Limits and exposure request from multiple sources and send it down stream as one common request, which reduced the mismatch between the same LIMIT information from different systems
+    • Implemented UI Screen using jQuery, Struts2.1, Spring and hibernate. Used prototype.js to create effective tabular data
+    • Designed and created the base architecture for the new Modules on boarded, implemented as facade design pattern
+    • Used Test Driven Development (TDD) process. Implemented a custom exception handler to ease the debugging
+    • Involved in resolving connector issues in Mule Application. Innovated and Created Unix shell scripts for checking out latest code from SVN, build, deploy and restart the servers in headless mode in the respective environment based on the input parameter provided at runtime
+    • Innovated and implemented a taglib as a utility which helped a lot in the project to migrate from struts 1.2 to struts2. This taglib which I created reduced the migration time by 5-6 months
+Environment: Core Java, Strutsl.3, Struts2.1, Spring, Oracle, jQuery, WebLogic Server, Prototype.js, WinSCP, Putty, CSS, 
+EJB, IntelliJ, Eclipse, Oracle, TOAD, HTML, XML, JavaScript, JUnit, Apache ANT, Maven, Dreamweaver, Mule
+
+Java Application Developer						                          Jan 2010 – Jan 2012
+Cognizant Technology Solutions
+Client: JPMorgan Chase, New York City, NY
+
+Risk Management – Rules. This application is to automate the Approval and Monitoring of limits creation and grading process for minimal risk/high volume clients.
+
+Roles and Responsibilities:
+    • Involved in Day-to-day interaction with client to gather Requirements, discussing production deployment strategies, create system test cases and ensure smooth user acceptance and sign-off
+    • Involved in designing, requirement gathering, Coding and Unit Testing the programs. 
+    • Implemented the rule as per the business requirement using ILog and Drools
+Environment: Core Java, Strutsl.3, Spring, Oracle, jQuery, WebLogic Server, WebSphere Servers (for Rule engine deployment), WinSCP, Putty, SQL Developer; CSS, EJB, Oracle, TOAD, ehcache, XML, JavaScript, JUnit, Maven, ILOG, Drools, JMS, Hibernate
+
+Associate, Projects	       						                         July 2006 - Jan 2010
+Cognizant Technology Solutions
+Client: JPMorgan Chase, Pune, India
+
+Exposures and Limit Monitoring. The Objective of the Program is to develop an integrated robust and flexible credit exposure
+and limit management system for traded products which incur credit risk
+
+Roles and Responsibilities:
+    • Involved in gathering requirements and coding
+    • Developed the applications using JSP, Strutsl.2 and implemented MVC Architecture. Implemented Stored Procedures, Triggers and Views
+Environment: Core Java, Struts2, Spring, Oracle, WebLogic Server, SQL Developer, CSS, EJB, Oracle, TOAD, HTML, JavaScript, JUnit, Maven, Hibernate, Spring, jQuery, CSS, TOAD, XML,IBatis,ILOG, Drools, Hibernate, JMS.
+
+Education
+Bachelor of Engineering 								               Aug2002 - July2006
+computer science and engineering
+Rajiv Gandhi Pradyogiki Vishwavidyalaya
+
+Certification and Licence:
+
+    • Machine Learning – PB8UKNXNBPWE
+    • Microservices: Design Patterns Learning Spring with Spring Boot
+    • Used Test Driven Development (TDD) process. Implemented a custom exception handler to ease the debugging
+    • Managing Teams Working on a Cross-Functional Team 
+    • Sun Certified Java Programmer    
